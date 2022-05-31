@@ -19,6 +19,14 @@ To install all the dependencies in this project run
 To run this project, you will need to add the following command
 
 ```bash
+git clone https://github.com/rahularepaka/lane-detection.git
+```
+
+```bash
+cd lane-detection
+```
+
+```bash
 python main.python
 ```
 
