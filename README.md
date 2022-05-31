@@ -41,6 +41,8 @@ python main.python
 
 This project demonstrates lane detection using a single image from a road dataset. The lanes are marked by a solid white line (on the right) and alternating short line segments with dots (on the left).
 
+Link to Dataset : [Lane Line Detection : Kaggle](https://www.kaggle.com/code/soumya044/lane-line-detection/data)
+
 ![solidWhiteCurve](https://user-images.githubusercontent.com/10435564/171062709-48773593-879f-429d-85c1-eebfcefb1ca8.jpg)
 
 ## Computer Vision Techniques
@@ -154,6 +156,29 @@ def filtered(image):
     return np.array([left_line, right_line])
 ```
 <img width="365" alt="mask" src="https://user-images.githubusercontent.com/10435564/171062941-65b2e05e-0b0d-49fa-9e67-bef81875e795.png">
+
+## Current Progress 
+
+**Testing with Simulators**
+
+- CARLA Simulator
+![image](https://user-images.githubusercontent.com/10435564/171114855-533b6fd6-dc7c-40dd-a04e-d9b3e04d7d2e.png)
+
+- lGSVL Simulator
+![image](https://user-images.githubusercontent.com/10435564/171114984-5fb31b7e-395f-4ea6-b5f7-633c21cae421.png)
+
+- Udacity Car Simulator by Unity
+- ![image](https://user-images.githubusercontent.com/10435564/171115096-bfbfaff6-2194-4c74-b377-b7a38fb56df1.png)
+
+**Test Videos (Kinda Failed)**
+
+**Testing Video on Udacity Simulator**
+
+https://user-images.githubusercontent.com/10435564/171115586-d5fa0d00-7f76-440e-912e-ac9c90b60551.mp4
+
+**Testing on Indian Road**
+
+https://user-images.githubusercontent.com/10435564/171115798-3e877758-91e8-4631-86c7-1192ed87469b.mp4
 
 ## Contributors
 
