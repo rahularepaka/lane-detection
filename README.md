@@ -180,6 +180,15 @@ https://user-images.githubusercontent.com/10435564/171115586-d5fa0d00-7f76-440e-
 
 https://user-images.githubusercontent.com/10435564/171115798-3e877758-91e8-4631-86c7-1192ed87469b.mp4
 
+## Ways to contribute
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. Submit a **Pull request** so that we can review your changes
+ 
+ ### Please abide by  **Contributing Guidelines** and **Code of Conduct**.
+ 
 ## Contributors
 
 - Rahul Arepaka
